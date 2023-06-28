@@ -82,7 +82,7 @@
                 </div>
             </div>
             <div class="book p-4">
-                <h3>Book a Table</h3>
+                <h3>Booksss a Table</h3>
                 <form action="#" class="appointment-form">
                     <div class="d-md-flex">
                         <div class="form-group">
