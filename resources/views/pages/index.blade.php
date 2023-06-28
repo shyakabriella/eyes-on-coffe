@@ -147,7 +147,7 @@
               <span class="flaticon-choices"></span>
           </div>
           <div class="media-body">
-            <h3 class="heading">Easy to Order</h3>
+            <h3 class="heading">Easywwwww to Order</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
           </div>
         </div>      
