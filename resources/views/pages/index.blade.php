@@ -128,7 +128,7 @@
     <div class="one-half ftco-animate">
         <div class="overlap">
         <div class="heading-section ftco-animate ">
-            <span class="subheading">Discover</span>
+            <span class="subheading">Discoveryy</span>
           <h2 class="mb-4">Our Story</h2>
         </div>
         <div>
@@ -147,7 +147,7 @@
               <span class="flaticon-choices"></span>
           </div>
           <div class="media-body">
-            <h3 class="heading">Easywwwww to Order</h3>
+            <h3 class="heading">Easy to Order</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
           </div>
         </div>      
