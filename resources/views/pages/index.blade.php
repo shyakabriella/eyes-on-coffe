@@ -128,7 +128,7 @@
     <div class="one-half ftco-animate">
         <div class="overlap">
         <div class="heading-section ftco-animate ">
-            <span class="subheading">Discoveryy</span>
+            <span class="subheading">Discoverwetw</span>
           <h2 class="mb-4">Our Story</h2>
         </div>
         <div>
