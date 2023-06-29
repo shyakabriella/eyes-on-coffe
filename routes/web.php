@@ -21,3 +21,7 @@ Route::get('/about', [CoffePageController::class, 'about'])->name('about');
 // Route::get('/', function () {
 //     return view('pages/index');
 // });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
