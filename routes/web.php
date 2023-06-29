@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\PageController;
+use App\Http\Controllers\CoffePageController;
 
 
 /*
@@ -18,6 +18,6 @@ use App\Http\Controllers\PageController;
 Route::get('/', [CoffePageController::class, 'index'])->name('/');
 Route::get('/about', [CoffePageController::class, 'about'])->name('about');
 
-Route::get('/', function () {
-    return view('pages/index');
-});
+// Route::get('/', function () {
+//     return view('pages/index');
+// });
